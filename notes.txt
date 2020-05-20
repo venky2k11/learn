@@ -11,3 +11,6 @@
 Master has been updated directly. Now we will try to merge the branch with master. 
 
 
+
+Text 1  -> b1 branch. updating the b1 branch.  I am making 2nd change. Not sure if something is already updated in the remote repo b1.  Removing direct repo changes and adding my local repo changes. 
+
