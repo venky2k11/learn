@@ -1,5 +1,11 @@
-** Initial GIT commit was done. File is committed to the local repo. It is not yet updated to GIT cloud. 
+* Initial GIT commit was done. File is committed to the local repo. It is not yet updated to GIT cloud. 
 
 ** Updated to remote repo. 
 
 ** Making 1.0 change.
+** Making 1.1 change.
+
+** Pull brought the change from GIT remote repo into my local and still had my local changes. 
+** I update the file and push it again. 
+
+
