@@ -8,4 +8,6 @@
 ** Pull brought the change from GIT remote repo into my local and still had my local changes. 
 ** I update the file and push it again. 
 
+Master has been updated directly. Now we will try to merge the branch with master. 
+
 
