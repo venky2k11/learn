@@ -1,6 +1,8 @@
 # learn
 Learn Git 
 
+http://rogerdudler.github.io/git-guide/
+
 
 Cloning: Cloning means creating a copy of the remote repo on your local machine. Now you can make changes to the project on your local machine.
 
