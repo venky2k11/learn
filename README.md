@@ -86,11 +86,15 @@ Step 2: Switch to the branch.
 	
 Inorder to move to master branch, use git checkout master  
 
-Step 3: git pull origin b1
+Step 3: We could use "git status" to see the changes. git pull is used to bring changes from git by other users into my local repo. 
+	git pull origin b1
 Step 4: Make changes 
-Step 5: git add notes.txt
-Step 6: git commit -m "message"
-Step 7: git push -u origin b1
+Step 5: use git add  to add the file to the repo 
+	git add notes.txt
+Step 6: commit the changes 
+	git commit -m "message"
+Step 7: push the changes 
+	git push -u origin b1
 
 
 Merge Branch with the Master:  For this we need to be in the master branch and use below commands:
